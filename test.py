@@ -1,1 +1,2 @@
-print ("Welcome to Python")
+print("Welcome to Python")
+print("My name is Kantarot")
